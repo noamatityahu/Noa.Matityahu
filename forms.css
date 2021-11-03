@@ -1,0 +1,24 @@
+*{
+    color: bloue;
+    background-color: grey;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+h1{
+    color: black;
+    font-size: 40px;
+}
+
+.heading{
+    color: darkseagreen;
+}
+
+#heading2{
+    color: hotpink;
+}
+
+body{
+    background-color: darksalmon;
+}
+

@@ -1,20 +1,20 @@
-*{
+* {
     color: bloue;
     background-color: grey;
     font-family: Arial;
     font-size: 25px;
 }
 
-h1{
+h1 {
     color: black;
     font-size: 40px;
 }
 
-.heading{
+.heading {
     color: darkseagreen;
 }
 
-#heading2{
+#heading2 {
     color: hotpink;
 }
 

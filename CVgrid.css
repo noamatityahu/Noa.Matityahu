@@ -28,6 +28,7 @@ body {
     grid-column-end: 1;
     font-size: 30px; 
     font-family:fantasy   
+
 }
 .item2{
     grid-area: left;
@@ -83,7 +84,6 @@ body {
 }
 
 body{
-    background-image:url("green.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -94,4 +94,15 @@ h1{
     font-family:fantasy;
     font-size: 60px;
     text-decoration:underline;
+
+
+    animation-name: blink;
+    animation-iteration-count: 5;
+    animation-duration: 1s;
+
+}
+
+@keyframes blink {
+    from {background-color: #66CDAA }
+    to {background-color: green}
 }
